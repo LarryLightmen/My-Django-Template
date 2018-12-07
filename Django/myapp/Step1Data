@@ -1,0 +1,74 @@
+{
+  "0": {
+    "Stimulus": "A1B1C1",
+    "Rank": 2
+  },
+  "1": {
+    "Stimulus": "A1B1C2",
+    "Rank": 3
+  },
+  "2": {
+    "Stimulus": "A1B1C3",
+    "Rank": 1
+  },
+  "3": {
+    "Stimulus": "A1B2C1",
+    "Rank": 5
+  },
+  "4": {
+    "Stimulus": "A1B2C2",
+    "Rank": 6
+  },
+  "5": {
+    "Stimulus": "A1B2C3",
+    "Rank": 4
+  },
+  "6": {
+    "Stimulus": "A2B1C1",
+    "Rank": 8
+  },
+  "7": {
+    "Stimulus": "A2B1C2",
+    "Rank": 9
+  },
+  "8": {
+    "Stimulus": "A2B1C3",
+    "Rank": 7
+  },
+  "9": {
+    "Stimulus": "A2B2C1",
+    "Rank": 11
+  },
+  "10": {
+    "Stimulus": "A2B2C2",
+    "Rank": 12
+  },
+  "11": {
+    "Stimulus": "A2B2C3",
+    "Rank": 10
+  },
+  "12": {
+    "Stimulus": "A3B1C1",
+    "Rank": 14
+  },
+  "13": {
+    "Stimulus": "A3B1C2",
+    "Rank": 15
+  },
+  "14": {
+    "Stimulus": "A3B1C3",
+    "Rank": 13
+  },
+  "15": {
+    "Stimulus": "A3B2C1",
+    "Rank": 17
+  },
+  "16": {
+    "Stimulus": "A3B2C2",
+    "Rank": 18
+  },
+  "17": {
+    "Stimulus": "A3B2C3",
+    "Rank": 16
+  }
+}
